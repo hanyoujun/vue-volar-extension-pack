@@ -1,13 +1,13 @@
 {
-    "name": "vue-volar-extention-pack",
-    "displayName": "Vue Volar extension Pack",
+    "name": "han-vue-volar-extention-pack",
+    "displayName": "Han Vue Volar extension Pack",
     "description": "This extension packs uses volar for vue projects.",
-    "version": "1.1.8",
+    "version": "2.1.8",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BroJenuel/vue-volar-extension-pack"
+        "url": "https://github.com/hanyoujun/vue-volar-extension-pack"
     },
     "scripts": {
         "package": "vsce package",
@@ -20,6 +20,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+    	"johnstoncode.svn-scm",
         "AT-9420.console-helper",
         "alefragnani.Bookmarks",
         "mikestead.dotenv",
