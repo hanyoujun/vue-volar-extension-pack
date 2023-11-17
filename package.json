@@ -1,8 +1,8 @@
 {
     "name": "han-vue-volar-extention-pack",
     "displayName": "Han Vue Volar extension Pack",
-    "description": "This extension packs uses volar for vue projects.",
-    "version": "2.1.8",
+    "description": "This extension packs uses volar for vue projects.forked from BroJenuel-Visual-Studio/vue-volar-extension-pack",
+    "version": "2.2.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -20,6 +20,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
+	"ms-vscode-remote.remote-ssh-edit",
+	"ms-vscode.remote-explorer",
+	"ms-vscode-remote.vscode-remote-extensionpack",
     	"johnstoncode.svn-scm",
         "AT-9420.console-helper",
         "alefragnani.Bookmarks",
