@@ -1,47 +1,48 @@
 {
-    "name": "han-vue-volar-extention-pack",
-    "displayName": "Han Vue Volar extension Pack",
-    "description": "This extension packs uses volar for vue projects.forked from BroJenuel-Visual-Studio/vue-volar-extension-pack",
-    "version": "2.2.1",
-    "publisher": "MisterJ",
-    "icon": "images/icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hanyoujun/vue-volar-extension-pack"
-    },
-    "scripts": {
-        "package": "vsce package",
-        "publish": "vsce publish"
-    },
-    "engines": {
-        "vscode": "^1.84.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-	"wmaurer.change-case",
-	"ms-vscode-remote.remote-ssh-edit",
-	"ms-vscode.remote-explorer",
-	"ms-vscode-remote.vscode-remote-extensionpack",
-    	"johnstoncode.svn-scm",
-        "AT-9420.console-helper",
-        "alefragnani.Bookmarks",
-        "mikestead.dotenv",
-        "EditorConfig.EditorConfig",
-        "usernamehw.errorlens",
-        "GitHub.github-vscode-theme",
-        "vincaslt.highlight-matching-tag",
-        "oderwat.indent-rainbow",
-        "yzhang.markdown-all-in-one",
-        "shd101wyy.markdown-preview-enhanced",
-        "PKief.material-icon-theme",
-        "stylelint.vscode-stylelint",
-        "syler.sass-indented",
-        "sibiraj-s.vscode-scss-formatter",
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "Vue.volar",
-        "Vue.vscode-typescript-vue-plugin"
-    ]
+  "name": "han-vue-volar-extention-pack",
+  "displayName": "Han Vue Volar extension Pack",
+  "description": "This extension packs uses volar for vue projects.forked from BroJenuel-Visual-Studio/vue-volar-extension-pack",
+  "version": "2.2.2",
+  "publisher": "MisterJ",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanyoujun/vue-volar-extension-pack"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "wmaurer.change-case",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "johnstoncode.svn-scm",
+    "AT-9420.console-helper",
+    "alefragnani.Bookmarks",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "GitHub.github-vscode-theme",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "PKief.material-icon-theme",
+    "stylelint.vscode-stylelint",
+    "syler.sass-indented",
+    "sibiraj-s.vscode-scss-formatter",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "antfu.unocss"
+  ]
 }
