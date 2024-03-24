@@ -41,6 +41,7 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "Vue.volar",
+    "stylelint.vscode-stylelint",
     "antfu.unocss"
   ]
 }
