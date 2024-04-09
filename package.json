@@ -25,7 +25,6 @@
     "ms-vscode.remote-explorer",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "johnstoncode.svn-scm",
-    "AT-9420.console-helper",
     "alefragnani.Bookmarks",
     "mikestead.dotenv",
     "EditorConfig.EditorConfig",
@@ -41,6 +40,7 @@
     "dbaeumer.vscode-eslint",
     "Vue.volar",
     "stylelint.vscode-stylelint",
-    "antfu.unocss"
+    "antfu.unocss",
+    "ChakrounAnas.turbo-console-log"
   ]
 }
