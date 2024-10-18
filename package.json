@@ -2,7 +2,7 @@
   "name": "han-vue-volar-extention-pack",
   "displayName": "Han Vue Volar extension Pack",
   "description": "This extension packs uses volar for vue projects.forked from BroJenuel-Visual-Studio/vue-volar-extension-pack",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "publisher": "MisterJ",
   "icon": "images/icon.png",
   "repository": {
